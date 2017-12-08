@@ -1,2 +1,0 @@
-# Vue-Bookstore
-Vue-Bookstore
